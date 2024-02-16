@@ -5,14 +5,14 @@
   },
   "name": "uv-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": " instance",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
   "keywords": [
-    "proxy"
+    "pro"
   ],
   "author": "",
   "license": "GPL-3.0-or-later"
